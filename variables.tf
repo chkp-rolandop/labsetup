@@ -30,5 +30,5 @@ variable "instances" {
 }
 #AMI - You must adjust this based on the region you're in
 variable "ubuntu_ami" {
-  default = "ami-0a886ac6c13a423f8"
+  default = "ami-0bbd39b2a9f33cd02"
 }
